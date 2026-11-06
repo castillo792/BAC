@@ -1,5 +1,5 @@
 from django.shortcuts import render
 
-def inicio(request):
-    return render (request, "Castillo/inicio.html")
+def Inicio(request):
+    return render (request, "castillo/inicio.html")
     
